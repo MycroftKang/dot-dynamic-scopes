@@ -30,6 +30,5 @@ if __name__ == "__main__":
         install_requires = [
             'django',
             'django-oauth-toolkit',
-            'django-settings-object',
         ],
     )
